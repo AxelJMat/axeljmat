@@ -1,5 +1,3 @@
-# 👋 Hello, I'm Axel  
-
 🎯 **Data Analyst | Passionné par la Data & l’Analytics**  
 
 Je suis Data Analyst, avec une expertise dans la manipulation, l’analyse et la visualisation de données.  
