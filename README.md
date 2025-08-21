@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hello, I'm Axel  
 
-<!--
-**AxelJMat/axeljmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Analyst | Passionné par la Data & l’Analytics**  
 
-Here are some ideas to get you started:
+Je suis Data Analyst, avec une expertise dans la manipulation, l’analyse et la visualisation de données.  
+Mon objectif est de transformer les données en insights concrets pour aider à la prise de décision.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Compétences & Outils  
+
+- **Langages :** Python 🐍 | R 📊 | SQL 🗄️  
+- **Data Visualisation :** Tableau 📈 | Power BI | Matplotlib / Seaborn  
+- **Cloud & Big Data :** Google BigQuery ☁️  
+- **Outils :** Git | Excel | Jupyter | RStudio | PyCharm  
+
+---
+
+## 📂 Projets  
+
+🔎 Voici quelques projets disponibles sur mon GitHub :  
+- 📊 **Analyse exploratoire & KPIs** – Découverte de datasets réels avec Python & R  
+- 🤖 **Machine Learning (basics)** – Premières expérimentations en classification et régression  
+- 🎶 **DataViz Spotify** – Analyse des tendances musicales mondiales avec Tableau et Python  
+- 🏃 **Tracking sportif** – Visualisation et suivi de performances personnelles (running & training)  
+
+---
+
+## 🌍 Me retrouver  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/axel-matondo)  
+- 📧 [Email](mailto:aj.matondo@gmail.com)  
+
+---
+
+✨ _Toujours curieux d’apprendre, partager et collaborer sur des projets data._  
